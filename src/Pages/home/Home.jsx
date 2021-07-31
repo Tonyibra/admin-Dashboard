@@ -3,7 +3,7 @@ import FeaturedInfo from "../../Component/featuredInfo/FeaturedInfo";
 import "./home.css";
 import { userData } from "../../dummyData.js";
 import WidgetSm from "../../Component/WidgetSm/WidgetSm";
-import WidgetLg from "../../WidgetLg/WidgetLg";
+import WidgetLg from "../../Component/WidgetLg/WidgetLg";
 const Home = () => {
   return (
     <div className="home">
